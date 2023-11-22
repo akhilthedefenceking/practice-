@@ -1,0 +1,2 @@
+console.log(documents.body.firstChild)
+alert("page is dangerous")
